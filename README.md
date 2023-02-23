@@ -1,7 +1,7 @@
 # Simon game
 A short-term memory game.
 
-#Try it out online
+# Try it out online  
 https://simongame-pb6v.onrender.com
 
 ## Version History
