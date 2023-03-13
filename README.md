@@ -2,7 +2,7 @@
 A short-term memory game.
 
 # Try it out online  
-https://simongame-pb6v.onrender.com
+This service uses free plan hosting and may cause a delay of up to 30 seconds on first load. https://simongame-pb6v.onrender.com
 
 ## Version History
 * 0.1
